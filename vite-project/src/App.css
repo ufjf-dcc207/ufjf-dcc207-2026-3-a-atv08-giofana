@@ -1,3 +1,9 @@
+.pacote {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
 .counter {
   font-size: 16px;
   padding: 5px 10px;
